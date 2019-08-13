@@ -21,7 +21,7 @@ public class HelloServlet extends HttpServlet{
 	@Override
 	public void destroy() {
 		// TODO Auto-generated method stub
-		System.out.println("destroy요청!!");
+		System.out.println("destroy요청!!!");
 	}
 
 	@Override
